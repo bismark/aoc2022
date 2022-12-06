@@ -1,4 +1,4 @@
-use Bitwise
+import Bitwise
 
 __DIR__
 |> Path.join("puzzle.txt")
